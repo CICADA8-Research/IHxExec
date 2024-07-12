@@ -15,4 +15,4 @@ Note the attached video:
 # Ex
   .\IHxExec.exe -s 1 -c c:/windows/system32/calc.exe
 ```
-![1_zOUhHKAGgGwgQU-SKsr5ZA](https://github.com/CICADA8-Research/IHxExec/assets/92790655/4957aec4-afb1-43b3-8656-00f4adbc050d)
+![explorer_DrFNrRODWT](https://github.com/user-attachments/assets/eb4c1786-585a-4c09-ad55-b979d1639db5)
