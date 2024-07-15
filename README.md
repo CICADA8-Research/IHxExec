@@ -2,7 +2,7 @@
 # IHxExec
 
 POC to execute arbitrary code on behalf of another user. U can read more about the technique here:
-
+- https://cicada-8.medium.com/process-injection-is-dead-long-live-ihxhelppaneserver-af8f20431b5d
 
 
 Note the attached video:
